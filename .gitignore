@@ -1,0 +1,16 @@
+#
+# ignore all dot-hidden files
+#
+.*
+#
+# dont ignore gitignore
+#
+!/.gitignore
+#
+# ignore php composer managed dep dir
+#
+/vendor/
+#
+# ignore php composer lock file (should be explicitly decided when to commit by overriding this rule via command line)
+#
+composer.lock
