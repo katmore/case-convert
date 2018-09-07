@@ -1,2 +1,2 @@
 # case-convert
-case coversion utility package
+case coversion library
