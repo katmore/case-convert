@@ -1,0 +1,21 @@
+{
+   "name": "katmore/case-convert",
+   "description" : "case coversion library",
+   "homepage":"https://github.com/katmore/title-case",
+    "autoload": {
+        "psr-4": {
+            "CaseConvert\\": "src/CaseConvert/"
+        }
+    },
+   "license": [
+       "MIT",
+       "GPL-3.0+"
+    ],
+    "require": {
+        "php" : ">=7.2.0"     
+     },
+   "require-dev": {
+      "phpunit/phpunit": "^7",
+      "ext-simplexml" : "*"
+   }
+}
