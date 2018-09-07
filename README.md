@@ -1,2 +1,2 @@
-# title-case
-title case micro package utility for php
+# case-convert
+case coversion utility package
