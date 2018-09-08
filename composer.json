@@ -4,7 +4,7 @@
    "homepage":"https://github.com/katmore/title-case",
     "autoload": {
         "psr-4": {
-            "CaseConvert\\": "src/CaseConvert/"
+            "CaseConvert\\": "src/"
         }
     },
    "license": [

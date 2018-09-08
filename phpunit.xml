@@ -21,7 +21,7 @@
     <!-- whitelist directory filters for code-coverage analysis -->
     <filter>
         <whitelist>
-            <directory>./src/CaseConvert</directory>
+            <directory>./src</directory>
         </whitelist>
     </filter>    
 </phpunit>
