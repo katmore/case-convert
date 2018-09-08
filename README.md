@@ -1,4 +1,4 @@
-# case-convert
+# case-convert - ALPHA (NOT READY)
 case coversion library
 
 ## Title Casing
