@@ -7,6 +7,10 @@
 #
 !/.gitignore
 #
+# dont ignore dirs with .gitkeep
+#
+!/.gitkeep
+#
 # ignore php composer managed dep dir
 #
 /vendor/
