@@ -9,7 +9,7 @@
 #
 # dont ignore dirs with .gitkeep
 #
-!/.gitkeep
+!**.gitkeep
 #
 # ignore php composer managed dep dir
 #
